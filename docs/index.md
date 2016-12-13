@@ -1,4 +1,12 @@
-# Vaccines RD
+## Estructura y Contenido del Informe de Consultoría
+
+Kristian López Vargas
+
+University of California, Santa Cruz
+
+GCPS | Dic, 2016
+
+-------------
 ### Información sobre las Encuestas
 * Número de encuestas subidas a la plataforma SurveyCTO : 7479
 * Número de encuestas conservadas para el analisis: 7377
