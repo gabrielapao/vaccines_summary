@@ -94,7 +94,6 @@ Muchas gracias por tu tiempo. Hasta pronto.
     
 * 60.48% de los entrevistados tienen teléfono celular.
 
-* 
 
 ----------------------------------
 
