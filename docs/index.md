@@ -90,10 +90,11 @@ Muchas gracias por tu tiempo. Hasta pronto.
 
 * Reacción
 
-    - 94% hogares "desea recibir mensajes similares en el futuro"
+    - 94% hogares "desea" recibir mensajes similares en el futuro.
     
-* (60.48% de los entrevistados tienen teléfono celular)
+* 60.48% de los entrevistados tienen teléfono celular.
 
+* 
 
 ----------------------------------
 
@@ -101,10 +102,61 @@ Muchas gracias por tu tiempo. Hasta pronto.
 
 ----------------------------------
 
-## Informe 
+## Informe Final
+
+1. Motivación y literatura
+
+2. Análisis descriptivo:
+    
+    * Prácticas de vacunación en detalle
+    
+3. Análisis del experimento:
+ 
+    * Impacto en variables de resultado relevantes
+
+----------------------------------
+
+## Informe Final (2): Variables de resultado
 
 
+- Tarjeta, al menos una vacuna (acceso)
 
+- Número total de visitas / vacunas
+
+- Porc. de vacunas que corresponden por edad.
+
+- Porc. de vacunas colocadas oportunamente.
+
+- Retraso promedio en la colocación de las vacunas
+    
+----------------------------------
+
+## Informe Final (3): estimación causal
+
+* Intention to treat: regresión basada en la aleatorización.
+
+* Treatment on the treated: regresión IV basada en ver el impacto sobre los tratados y responde al hecho que la respuesta a las llamadas es en cierta medida endógena.
+
+* Heterogenous treatment effects: interacción del grado de exposición con tratamiento.
+
+----------------------------------
+
+## Informe Final (4): exploración y futura investigación
+
+* Externalidades y efectos de desborde (espacial y social)
+
+* Datos de voz e imágenes.
+
+----------------------------------
+
+## Nota de política
+
+Basados en el análisis descriptivo y causal:
+
+* Recomendaciones en materia de mensajería telefónica. 
+
+* Recomendaciones en "promoción" de la demanda.
+  
 
 <!--------------------------------------------------------------------->
 
